@@ -1,5 +1,4 @@
-# Jonathan Watkins
-## PHP Developer Code Test for BigChoice
+# Country Search
 
 ## Installation
 1. Install new instance of Laravel.
